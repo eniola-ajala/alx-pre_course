@@ -1,2 +1,1 @@
-# ALX Pre Course
-A
+# ALX Pre Cour
